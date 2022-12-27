@@ -38,7 +38,7 @@
                     </a>
                 </li>
                 <li>
-                    <a class="nav-link" href="home/user.jsp">
+                    <a class="nav-link" href="user.jsp">
                         <p>Account</p>
                         <%-------//////////////////// Quan ly Acc count--%>
                     </a>
